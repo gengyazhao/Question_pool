@@ -1,22 +1,3 @@
-# 数通知识
-TCP/IP模型
-IP地址分类
-VLAN及Trunk
-STP与MSTP
-链路聚合
-负载分担
-OSPF
-堆叠
-BGP
-VRRP
-ACL
-NAT
-双机热备
-VPN
-GRE
-IPSecVPN
-SNMP
-IGMP
-PIM
-IPV6
-MPLS
+# 网络工程师、运维工程师、网络运维、IT支持面试题库
+## 1、基础理论
+## 2、问题进阶
